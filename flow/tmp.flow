@@ -1,9 +1,45 @@
 {
     "connections": [
         {
-            "in_id": "{dda3322f-cf24-41f9-ac80-8c50bc63e6f5}",
+            "in_id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
             "in_index": 0,
-            "out_id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
+            "out_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
+            "in_index": 0,
+            "out_id": "{536943c4-9988-46b3-8b08-f54b5bc865c6}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{b5751068-9f7e-4019-8594-5c935e730176}",
+            "in_index": 0,
+            "out_id": "{f7e755f5-490a-408f-8427-56774d9883b2}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
+            "in_index": 0,
+            "out_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
+            "in_index": 1,
+            "out_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{07eb6bfb-d042-4405-85b8-8695e78411c0}",
+            "in_index": 0,
+            "out_id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
+            "in_index": 0,
+            "out_id": "{9662b2dd-622c-4dce-810d-0db777567024}",
             "out_index": 0
         },
         {
@@ -13,15 +49,9 @@
             "out_index": 0
         },
         {
-            "in_id": "{5c249800-4478-4a6d-ab04-5e7a106ee3b4}",
+            "in_id": "{addf3594-6bfa-4cce-89f3-bb8bb9f150bf}",
             "in_index": 0,
-            "out_id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
-            "in_index": 0,
-            "out_id": "{44a927dc-fcb6-4000-9da9-5d42a1049f14}",
+            "out_id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
             "out_index": 0
         },
         {
@@ -31,9 +61,39 @@
             "out_index": 0
         },
         {
+            "in_id": "{681416c2-cb7b-4de5-994f-9de9cb52de19}",
+            "in_index": 0,
+            "out_id": "{b01e2bcd-63ca-41c1-96b7-4dfe53e91c0c}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{ee2ea6f0-1633-45b3-9844-f4a3c22490e4}",
+            "in_index": 0,
+            "out_id": "{b5751068-9f7e-4019-8594-5c935e730176}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{5c249800-4478-4a6d-ab04-5e7a106ee3b4}",
+            "in_index": 0,
+            "out_id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
+            "in_index": 0,
+            "out_id": "{07eb6bfb-d042-4405-85b8-8695e78411c0}",
+            "out_index": 0
+        },
+        {
             "in_id": "{14322216-8fae-4961-ba24-dd7398bc0f06}",
             "in_index": 0,
             "out_id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{673d861f-1983-4189-9efa-d02d072d0cf8}",
+            "in_index": 0,
+            "out_id": "{addf3594-6bfa-4cce-89f3-bb8bb9f150bf}",
             "out_index": 0
         },
         {
@@ -49,6 +109,12 @@
             "out_index": 0
         },
         {
+            "in_id": "{dda3322f-cf24-41f9-ac80-8c50bc63e6f5}",
+            "in_index": 0,
+            "out_id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
+            "out_index": 0
+        },
+        {
             "in_id": "{b01e2bcd-63ca-41c1-96b7-4dfe53e91c0c}",
             "in_index": 0,
             "out_id": "{673d861f-1983-4189-9efa-d02d072d0cf8}",
@@ -61,15 +127,15 @@
             "out_index": 1
         },
         {
-            "in_id": "{ee2ea6f0-1633-45b3-9844-f4a3c22490e4}",
-            "in_index": 0,
-            "out_id": "{b5751068-9f7e-4019-8594-5c935e730176}",
-            "out_index": 0
+            "in_id": "{ce5d753b-d851-4772-8a2e-498535c6e38d}",
+            "in_index": 1,
+            "out_id": "{ee2ea6f0-1633-45b3-9844-f4a3c22490e4}",
+            "out_index": 1
         },
         {
-            "in_id": "{673d861f-1983-4189-9efa-d02d072d0cf8}",
+            "in_id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
             "in_index": 0,
-            "out_id": "{addf3594-6bfa-4cce-89f3-bb8bb9f150bf}",
+            "out_id": "{44a927dc-fcb6-4000-9da9-5d42a1049f14}",
             "out_index": 0
         },
         {
@@ -77,75 +143,225 @@
             "in_index": 0,
             "out_id": "{ce5d753b-d851-4772-8a2e-498535c6e38d}",
             "out_index": 0
-        },
-        {
-            "in_id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
-            "in_index": 0,
-            "out_id": "{9662b2dd-622c-4dce-810d-0db777567024}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{07eb6bfb-d042-4405-85b8-8695e78411c0}",
-            "in_index": 0,
-            "out_id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
-            "in_index": 1,
-            "out_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
-            "in_index": 0,
-            "out_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{b5751068-9f7e-4019-8594-5c935e730176}",
-            "in_index": 0,
-            "out_id": "{f7e755f5-490a-408f-8427-56774d9883b2}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{681416c2-cb7b-4de5-994f-9de9cb52de19}",
-            "in_index": 0,
-            "out_id": "{b01e2bcd-63ca-41c1-96b7-4dfe53e91c0c}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
-            "in_index": 0,
-            "out_id": "{07eb6bfb-d042-4405-85b8-8695e78411c0}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
-            "in_index": 0,
-            "out_id": "{536943c4-9988-46b3-8b08-f54b5bc865c6}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{ce5d753b-d851-4772-8a2e-498535c6e38d}",
-            "in_index": 1,
-            "out_id": "{ee2ea6f0-1633-45b3-9844-f4a3c22490e4}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
-            "in_index": 0,
-            "out_id": "{e9773ab4-34a2-48f3-a4aa-740d1561021c}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{addf3594-6bfa-4cce-89f3-bb8bb9f150bf}",
-            "in_index": 0,
-            "out_id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
-            "out_index": 0
         }
     ],
     "nodes": [
+        {
+            "id": "{f7e755f5-490a-408f-8427-56774d9883b2}",
+            "model": {
+                "name": "PipeConnection"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": 1327.8782838041489,
+                "y": 290.5664686428943
+            }
+        },
+        {
+            "id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "/*\n    subscribe data\n*/\n\ncustomer_in = payload.output.customer_in\ncustomer_out = payload.output.customer_out\ntmp_customer_in = getGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID)\ntmp_customer_out = getGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID)\n\n// update data\nsetGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n\n/*\n    output data\n*/\n\npayload.output.customer_in = customer_in - tmp_customer_in\npayload.output.customer_out = customer_out - tmp_customer_out\n\n\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 19,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "calculate\nand update tmp",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 2223.1732756079864,
+                "y": 415.6622487125553
+            }
+        },
+        {
+            "id": "{14322216-8fae-4961-ba24-dd7398bc0f06}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 2\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 2\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "2 OUT customer_out\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 2418.2370608173314,
+                "y": 545.0269511195013
+            }
+        },
+        {
+            "id": "{b5751068-9f7e-4019-8594-5c935e730176}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": 1443.2280248054449,
+                "y": 272.52709885940453
+            }
+        },
+        {
+            "id": "{536943c4-9988-46b3-8b08-f54b5bc865c6}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": 324.18019751175166,
+                "y": 621.4029896315263
+            }
+        },
+        {
+            "id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "if first time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 1891.3149041169672,
+                "y": 272.9408684106627
+            }
+        },
+        {
+            "id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
+            "model": {
+                "name": "AutoRun",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 468.8007988924136,
+                "y": 624.4263082379879
+            }
+        },
+        {
+            "id": "{5c249800-4478-4a6d-ab04-5e7a106ee3b4}",
+            "model": {
+                "height": 111,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "var m = new Date();\n\nvar show_datestring =\n    m.getFullYear() + \"/\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"/\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"0\" + m.getSeconds()).slice(-2);\n    \nlabel = show_datestring",
+                    "size": 19,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 23,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 293
+            },
+            "ngo": {
+                "comment": {
+                    "data": "just for show",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 638.2306052707858,
+                "y": 630.7901599067794
+            }
+        },
+        {
+            "id": "{673d861f-1983-4189-9efa-d02d072d0cf8}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "clear firsttime\n",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 2221.9921375026647,
+                "y": 274.236528679771
+            }
+        },
         {
             "id": "{dda3322f-cf24-41f9-ac80-8c50bc63e6f5}",
             "model": {
@@ -219,19 +435,15 @@
             "model": {
                 "data": {
                     "console": "",
-                    "height": 794,
                     "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n\n",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
                         "size": 19,
-                        "splt0": 631,
-                        "splt1": 157,
                         "style": "Dracula",
                         "widget_st_w": 0,
                         "word_wrap": false
-                    },
-                    "width": 910
+                    }
                 },
                 "name": "JavaScript",
                 "node_enable": true
@@ -252,19 +464,15 @@
             "model": {
                 "data": {
                     "console": "",
-                    "height": 857,
                     "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
                         "size": 11,
-                        "splt0": 681,
-                        "splt1": 170,
                         "style": "Dracula",
                         "widget_st_w": 0,
                         "word_wrap": false
-                    },
-                    "width": 986
+                    }
                 },
                 "name": "JavaScript",
                 "node_enable": true
@@ -285,19 +493,19 @@
             "model": {
                 "data": {
                     "console": "",
-                    "height": 490,
+                    "height": 359,
                     "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\nifelse = false\nif(min % 15 == 0 && sec == 0){\n     ifelse = true\n}",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
                         "size": 11,
-                        "splt0": 387,
-                        "splt1": 97,
+                        "splt0": 282,
+                        "splt1": 71,
                         "style": "Dracula",
                         "widget_st_w": 0,
                         "word_wrap": false
                     },
-                    "width": 852
+                    "width": 322
                 },
                 "name": "IfElse",
                 "node_enable": true
@@ -311,6 +519,39 @@
             "position": {
                 "x": 1598.1701735657753,
                 "y": 273.76895392394886
+            }
+        },
+        {
+            "id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "height": 359,
+                    "js_code": "d = new Date()\nhour = d.getHours()\nsec = d.getSeconds()\n\n// time between 10AM and 9PM \nifelse = hour >= 10 && sec <= 20",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "splt0": 282,
+                        "splt1": 71,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    },
+                    "width": 322
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "check time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 691.7057366300128,
+                "y": 217.55347858753248
             }
         },
         {
@@ -349,6 +590,23 @@
             }
         },
         {
+            "id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
+            "model": {
+                "name": "AutoRun",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "start",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 426.98338159961986,
+                "y": 216.87046513216686
+            }
+        },
+        {
             "id": "{b01e2bcd-63ca-41c1-96b7-4dfe53e91c0c}",
             "model": {
                 "data": {
@@ -375,23 +633,6 @@
             "position": {
                 "x": 2395.317588428148,
                 "y": 275.1192169524286
-            }
-        },
-        {
-            "id": "{66e26542-3494-4a01-99c4-d9a1ccd00968}",
-            "model": {
-                "name": "AutoRun",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "start",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 427.73469640052144,
-                "y": 216.87046513216683
             }
         },
         {
@@ -437,260 +678,11 @@
                 "x": 2580.237060817332,
                 "y": 326.0269511195013
             }
-        },
-        {
-            "id": "{fd1c214c-277e-44f0-af66-80f2f316bdba}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "hour = getGlobal(\"hour\")\nmin = getGlobal(\"min\")\n// time between 10AM and 9PM \nifelse = hour >= 10 && hour <= 20",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "check time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 691.7057366300128,
-                "y": 217.55347858753248
-            }
-        },
-        {
-            "id": "{673d861f-1983-4189-9efa-d02d072d0cf8}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "clear firsttime\n",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 2221.9921375026647,
-                "y": 274.236528679771
-            }
-        },
-        {
-            "id": "{5c249800-4478-4a6d-ab04-5e7a106ee3b4}",
-            "model": {
-                "height": 111,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "height": 404,
-                    "key": "var m = new Date();\n\nvar show_datestring =\n    m.getFullYear() + \"/\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"/\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"0\" + m.getSeconds()).slice(-2);\n    \nlabel = show_datestring",
-                    "size": 19,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 23,
-                        "splt0": 242,
-                        "splt1": 60,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    },
-                    "width": 416
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 293
-            },
-            "ngo": {
-                "comment": {
-                    "data": "just for show",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 660.0106052707857,
-                "y": 635.6301599067793
-            }
-        },
-        {
-            "id": "{5645dccc-2b4d-4702-887d-f919cf7f10f2}",
-            "model": {
-                "name": "AutoRun",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 468.8007988924136,
-                "y": 624.4263082379879
-            }
-        },
-        {
-            "id": "{23d7727d-42fa-4427-8926-94e9fcda1b5b}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "if first time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 1891.3149041169672,
-                "y": 272.9408684106627
-            }
-        },
-        {
-            "id": "{536943c4-9988-46b3-8b08-f54b5bc865c6}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": 324.18019751175166,
-                "y": 621.4029896315263
-            }
-        },
-        {
-            "id": "{b5751068-9f7e-4019-8594-5c935e730176}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": 1443.2280248054449,
-                "y": 272.52709885940453
-            }
-        },
-        {
-            "id": "{14322216-8fae-4961-ba24-dd7398bc0f06}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 2\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n",
-                    "tmp_path": "/home/kem"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 2\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "2 OUT customer_out\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 2418.2370608173314,
-                "y": 545.0269511195013
-            }
-        },
-        {
-            "id": "{7c3e9e3c-efe4-43cc-9309-1ef382318dec}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\n\ncustomer_in = payload.output.customer_in\ncustomer_out = payload.output.customer_out\ntmp_customer_in = getGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID)\ntmp_customer_out = getGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID)\n\n// update data\nsetGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n\n/*\n    output data\n*/\n\npayload.output.customer_in = customer_in - tmp_customer_in\npayload.output.customer_out = customer_out - tmp_customer_out\n\n\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 19,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "calculate\nand update tmp",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 2223.1732756079864,
-                "y": 415.6622487125553
-            }
-        },
-        {
-            "id": "{f7e755f5-490a-408f-8427-56774d9883b2}",
-            "model": {
-                "name": "PipeConnection"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": 1327.8782838041489,
-                "y": 290.5664686428943
-            }
         }
     ],
     "scene_data": {
-        "flow_view_pos_x": 524.9795677081863,
-        "flow_view_pos_y": -166.24751968654294,
-        "flow_view_zoom_factor": 0.424097618372485
+        "flow_view_pos_x": 1794.489567708184,
+        "flow_view_pos_y": 443.5924803134556,
+        "flow_view_zoom_factor": 0.8264462809917359
     }
 }

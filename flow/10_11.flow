@@ -1,441 +1,159 @@
 {
     "connections": [
         {
-            "in_id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
-            "in_index": 0,
-            "out_id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{3fa2ed85-ea8e-4170-9f4c-8cf59c2783ad}",
-            "in_index": 0,
-            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{9bdb6aaf-9d3c-4282-842c-e5f4a0abad51}",
-            "in_index": 0,
-            "out_id": "{189fc7bf-ea3a-4bf4-b31c-e584f9d1448a}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{d3bdd46c-897f-4ea1-84b8-924c285b6e60}",
-            "in_index": 0,
-            "out_id": "{9bdb6aaf-9d3c-4282-842c-e5f4a0abad51}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
-            "in_index": 1,
-            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{52f47a71-b740-4a40-8848-bccf915cc8f7}",
-            "in_index": 0,
-            "out_id": "{aa8e63af-7480-42bf-a57e-2119d8f41239}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{930033d6-426e-4fe9-a153-c6606c8db159}",
-            "in_index": 0,
-            "out_id": "{37fc2e2d-73cc-431d-971b-e00ffea5764d}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{9f8229d2-45b1-47a0-970b-e03bc9cb8eb3}",
-            "in_index": 0,
-            "out_id": "{45494b8b-b572-4f5b-83cc-623deb3f8ec1}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{7270da17-0484-4a33-aeb9-e8f81ec2fb22}",
-            "in_index": 0,
-            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{10e6f5b9-9615-4b1f-a1c8-647a521085b2}",
-            "in_index": 1,
-            "out_id": "{3fa2ed85-ea8e-4170-9f4c-8cf59c2783ad}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{acf4b568-98c2-46b5-91bd-befe3ffad8c9}",
-            "in_index": 0,
-            "out_id": "{48823650-1cac-40ad-9748-8b68c3c7c054}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{ab42ff59-6660-4b30-861e-822441bfe2fa}",
-            "in_index": 0,
-            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
-            "in_index": 0,
-            "out_id": "{c12a7293-9672-4b76-9463-b19ff55d4b46}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{03b6a272-2560-4d3c-9808-660dd6842aa6}",
-            "in_index": 0,
-            "out_id": "{c07a9200-c0ef-463d-94fe-94766a8cf8c6}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{8412def5-f882-465b-bdc0-6b3477eb7eee}",
-            "in_index": 0,
-            "out_id": "{0ea60c3a-2ded-476f-88dc-f559c37c1403}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{6e2e7bd0-abae-4f31-8b45-c2bf6a993d5f}",
-            "in_index": 0,
-            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{fd3684bd-461e-42fe-a5bb-be123045dc64}",
-            "in_index": 0,
-            "out_id": "{c095f8f5-78a8-4b83-a694-a20c0dee59e7}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{74f0016d-ac26-4fc3-adf0-325f79fc7da9}",
-            "in_index": 0,
-            "out_id": "{10e6f5b9-9615-4b1f-a1c8-647a521085b2}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
-            "in_index": 0,
-            "out_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{595c7be1-2c1b-44ea-a60b-8e7405746776}",
-            "in_index": 0,
-            "out_id": "{46936324-dfce-4fa7-bdc6-7f649d6e11da}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{fd3684bd-461e-42fe-a5bb-be123045dc64}",
-            "in_index": 1,
-            "out_id": "{f0b15d7a-d455-4fd6-8b24-31bd7fb524b3}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{120c9238-7136-4750-958c-ec4839268d03}",
-            "in_index": 0,
-            "out_id": "{595c7be1-2c1b-44ea-a60b-8e7405746776}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{48823650-1cac-40ad-9748-8b68c3c7c054}",
-            "in_index": 0,
-            "out_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{fe8f2f9d-c0bb-4302-bede-1f20ff7cb4e6}",
-            "in_index": 0,
-            "out_id": "{a1f6ed07-7693-445e-9818-be026bce1a0d}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{c07a9200-c0ef-463d-94fe-94766a8cf8c6}",
-            "in_index": 1,
-            "out_id": "{9f8229d2-45b1-47a0-970b-e03bc9cb8eb3}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{5fcb196b-b134-4719-abb5-dd0426cb8492}",
-            "in_index": 0,
-            "out_id": "{af12ed37-f013-4c9e-81ec-79e09762d7d3}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{54fecea2-f3e2-47ef-a641-8b16c96e23bf}",
-            "in_index": 0,
-            "out_id": "{a1f6ed07-7693-445e-9818-be026bce1a0d}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
-            "in_index": 0,
-            "out_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{4a90ee81-abed-455f-a5cf-6999415a38a7}",
-            "in_index": 0,
-            "out_id": "{fd3684bd-461e-42fe-a5bb-be123045dc64}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
-            "in_index": 0,
-            "out_id": "{8bdcf2c6-bf8d-4914-92a2-a057008d841c}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{a1f6ed07-7693-445e-9818-be026bce1a0d}",
-            "in_index": 0,
-            "out_id": "{930033d6-426e-4fe9-a153-c6606c8db159}",
-            "out_index": 0
-        },
-        {
             "in_id": "{4f75b7e7-2e9c-4591-bac1-4714f485c69e}",
             "in_index": 0,
-            "out_id": "{3c6e2684-6415-4c5c-b4d5-e174d0dd6f36}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{18021c1a-e177-4095-b790-c0fef1defa23}",
-            "in_index": 1,
-            "out_id": "{ac843441-63ed-4cf9-8f53-dd9ab689b7e3}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{c07a9200-c0ef-463d-94fe-94766a8cf8c6}",
-            "in_index": 0,
-            "out_id": "{9f8229d2-45b1-47a0-970b-e03bc9cb8eb3}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{f0b15d7a-d455-4fd6-8b24-31bd7fb524b3}",
-            "in_index": 0,
-            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{9585070f-585c-4994-b2b2-5b4ee533cb58}",
-            "in_index": 0,
-            "out_id": "{4b4bf7c2-6994-4484-b707-a55757f869f0}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{45494b8b-b572-4f5b-83cc-623deb3f8ec1}",
-            "in_index": 0,
-            "out_id": "{03b6a272-2560-4d3c-9808-660dd6842aa6}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{6c61d591-b476-4a22-8f6c-c42a7a23a180}",
-            "in_index": 0,
-            "out_id": "{37fc2e2d-73cc-431d-971b-e00ffea5764d}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{aa8e63af-7480-42bf-a57e-2119d8f41239}",
-            "in_index": 0,
-            "out_id": "{4a90ee81-abed-455f-a5cf-6999415a38a7}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{c66ee78b-67dd-47eb-903d-ea1d97bd8dae}",
-            "in_index": 0,
-            "out_id": "{25efa680-ee69-426a-ad82-19c5265256ba}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
-            "in_index": 1,
-            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
-            "in_index": 0,
-            "out_id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{46936324-dfce-4fa7-bdc6-7f649d6e11da}",
-            "in_index": 0,
-            "out_id": "{81bf8675-ac2b-4658-ae1f-e337336a1879}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{3e8bc090-ee42-4a29-9c59-006475873034}",
-            "in_index": 0,
-            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{af12ed37-f013-4c9e-81ec-79e09762d7d3}",
-            "in_index": 0,
-            "out_id": "{610ccf93-5e0e-418a-b6d6-a7a61b073dc4}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{9bd6b15f-8836-452c-8577-86e8a4bea318}",
-            "in_index": 0,
-            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
-            "in_index": 0,
-            "out_id": "{9f8229d2-45b1-47a0-970b-e03bc9cb8eb3}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{c095f8f5-78a8-4b83-a694-a20c0dee59e7}",
-            "in_index": 1,
-            "out_id": "{aa8e63af-7480-42bf-a57e-2119d8f41239}",
-            "out_index": 1
-        },
-        {
-            "in_id": "{4181335c-43dc-40df-8efa-0b98fe571837}",
-            "in_index": 0,
-            "out_id": "{af12ed37-f013-4c9e-81ec-79e09762d7d3}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
-            "in_index": 0,
-            "out_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{038a10f2-213c-496d-be7d-bca77575efaf}",
-            "in_index": 0,
-            "out_id": "{25efa680-ee69-426a-ad82-19c5265256ba}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
-            "in_index": 0,
-            "out_id": "{8412def5-f882-465b-bdc0-6b3477eb7eee}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
-            "in_index": 0,
-            "out_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{efa54390-cd04-4808-8dd7-9c1104188f6d}",
-            "in_index": 0,
-            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{5cb93eae-bfde-4e34-904c-7461c7a689d7}",
-            "in_index": 0,
-            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{10e6f5b9-9615-4b1f-a1c8-647a521085b2}",
-            "in_index": 0,
-            "out_id": "{18021c1a-e177-4095-b790-c0fef1defa23}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{189fc7bf-ea3a-4bf4-b31c-e584f9d1448a}",
-            "in_index": 0,
-            "out_id": "{437adba2-35bc-4ef9-acb9-5a75c9d5f9b1}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{437adba2-35bc-4ef9-acb9-5a75c9d5f9b1}",
-            "in_index": 0,
-            "out_id": "{4b4bf7c2-6994-4484-b707-a55757f869f0}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{8bdcf2c6-bf8d-4914-92a2-a057008d841c}",
-            "in_index": 0,
-            "out_id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{4b4bf7c2-6994-4484-b707-a55757f869f0}",
-            "in_index": 0,
-            "out_id": "{5d3020f6-a4d9-4552-93a9-bb09944e1090}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{610ccf93-5e0e-418a-b6d6-a7a61b073dc4}",
-            "in_index": 0,
-            "out_id": "{6c61d591-b476-4a22-8f6c-c42a7a23a180}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{0ea60c3a-2ded-476f-88dc-f559c37c1403}",
-            "in_index": 0,
-            "out_id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
-            "out_index": 0
-        },
-        {
-            "in_id": "{00ce64f9-348a-4df9-bbdb-82f1f0205d78}",
-            "in_index": 0,
-            "out_id": "{038a10f2-213c-496d-be7d-bca77575efaf}",
+            "out_id": "{98f0f41b-18ed-4b67-980c-63f28f637619}",
             "out_index": 0
         },
         {
             "in_id": "{ec041dd0-7ca9-42eb-9037-93131504b4df}",
             "in_index": 0,
-            "out_id": "{3c6e2684-6415-4c5c-b4d5-e174d0dd6f36}",
+            "out_id": "{98f0f41b-18ed-4b67-980c-63f28f637619}",
             "out_index": 0
         },
         {
-            "in_id": "{ac843441-63ed-4cf9-8f53-dd9ab689b7e3}",
+            "in_id": "{83b1417b-4cac-4f7d-8ce6-3665e665a481}",
+            "in_index": 1,
+            "out_id": "{81526248-bb1b-4cd9-9185-539b98acf404}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{7e065176-fc5a-4a51-a2e5-83af4371ffc3}",
             "in_index": 0,
-            "out_id": "{74f0016d-ac26-4fc3-adf0-325f79fc7da9}",
+            "out_id": "{36ad0a03-8825-461e-8e1e-a06e83ff6e9c}",
             "out_index": 0
         },
         {
-            "in_id": "{3c6e2684-6415-4c5c-b4d5-e174d0dd6f36}",
+            "in_id": "{83b1417b-4cac-4f7d-8ce6-3665e665a481}",
             "in_index": 0,
-            "out_id": "{9585070f-585c-4994-b2b2-5b4ee533cb58}",
+            "out_id": "{81526248-bb1b-4cd9-9185-539b98acf404}",
             "out_index": 0
         },
         {
-            "in_id": "{c095f8f5-78a8-4b83-a694-a20c0dee59e7}",
+            "in_id": "{c052e4ae-ce6f-40e6-9fdd-b12f2f86c96d}",
             "in_index": 0,
-            "out_id": "{aa8e63af-7480-42bf-a57e-2119d8f41239}",
+            "out_id": "{1cd90899-61d4-470e-a406-2c689e744393}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{59c46dd3-5450-4116-a299-2b1642a93c4e}",
+            "in_index": 0,
+            "out_id": "{4299dbf0-3a03-47c4-b4ab-728e7c625fd2}",
             "out_index": 0
         },
         {
-            "in_id": "{5d3020f6-a4d9-4552-93a9-bb09944e1090}",
+            "in_id": "{36ad0a03-8825-461e-8e1e-a06e83ff6e9c}",
             "in_index": 0,
-            "out_id": "{ac843441-63ed-4cf9-8f53-dd9ab689b7e3}",
+            "out_id": "{1cd90899-61d4-470e-a406-2c689e744393}",
             "out_index": 0
         },
         {
-            "in_id": "{baa91e28-4170-42c3-aeba-5ed0c1758d33}",
-            "in_index": 0,
-            "out_id": "{9bdb6aaf-9d3c-4282-842c-e5f4a0abad51}",
+            "in_id": "{4299dbf0-3a03-47c4-b4ab-728e7c625fd2}",
+            "in_index": 1,
+            "out_id": "{3fa2ed85-ea8e-4170-9f4c-8cf59c2783ad}",
             "out_index": 0
         },
         {
-            "in_id": "{7ff9e895-1a2a-4842-9873-6fc7d828df44}",
+            "in_id": "{4299dbf0-3a03-47c4-b4ab-728e7c625fd2}",
             "in_index": 0,
-            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
+            "out_id": "{83b1417b-4cac-4f7d-8ce6-3665e665a481}",
             "out_index": 0
         },
         {
-            "in_id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
+            "in_id": "{c69318af-4c9c-4b54-b479-7816f91f8066}",
             "in_index": 0,
-            "out_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
+            "out_id": "{7e065176-fc5a-4a51-a2e5-83af4371ffc3}",
             "out_index": 0
         },
         {
-            "in_id": "{18021c1a-e177-4095-b790-c0fef1defa23}",
+            "in_id": "{54fecea2-f3e2-47ef-a641-8b16c96e23bf}",
             "in_index": 0,
-            "out_id": "{ac843441-63ed-4cf9-8f53-dd9ab689b7e3}",
+            "out_id": "{ee77d591-7b7b-4d80-bfd3-c66f0a436b63}",
             "out_index": 0
         },
         {
-            "in_id": "{25efa680-ee69-426a-ad82-19c5265256ba}",
+            "in_id": "{fe8f2f9d-c0bb-4302-bede-1f20ff7cb4e6}",
             "in_index": 0,
-            "out_id": "{00ce64f9-348a-4df9-bbdb-82f1f0205d78}",
+            "out_id": "{ee77d591-7b7b-4d80-bfd3-c66f0a436b63}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{5fcb196b-b134-4719-abb5-dd0426cb8492}",
+            "in_index": 0,
+            "out_id": "{c3c489d1-71ab-4a0f-8507-c404f7d9c958}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{48e9a978-0454-415b-945c-d90a2b3277fb}",
+            "in_index": 1,
+            "out_id": "{f0b15d7a-d455-4fd6-8b24-31bd7fb524b3}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{48e9a978-0454-415b-945c-d90a2b3277fb}",
+            "in_index": 0,
+            "out_id": "{44807f80-8d39-4fc3-820d-aaff591c2bdc}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{ee77d591-7b7b-4d80-bfd3-c66f0a436b63}",
+            "in_index": 0,
+            "out_id": "{30075830-83a9-4c44-bade-5c114b0b63ce}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{713dcc70-17f3-485c-aec2-32b7e9038f6a}",
+            "in_index": 0,
+            "out_id": "{8249c939-fbe8-44dd-91cb-5e64062ba072}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{30075830-83a9-4c44-bade-5c114b0b63ce}",
+            "in_index": 0,
+            "out_id": "{36818974-4483-4e31-8cdb-d0d08768ff74}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{c2db1488-519d-4b11-bfbe-a95bcf0f48a9}",
+            "in_index": 0,
+            "out_id": "{36818974-4483-4e31-8cdb-d0d08768ff74}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
+            "in_index": 0,
+            "out_id": "{5ff3c6d6-2a3d-4018-bcc1-37641cb6d695}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{d3bdd46c-897f-4ea1-84b8-924c285b6e60}",
+            "in_index": 0,
+            "out_id": "{c69318af-4c9c-4b54-b479-7816f91f8066}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{fa2cc8a2-1b02-4295-8c68-6b52d1ea9b48}",
+            "in_index": 0,
+            "out_id": "{ffc394d1-e67d-4023-80ea-6f6b2cff76d3}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{81526248-bb1b-4cd9-9185-539b98acf404}",
+            "in_index": 0,
+            "out_id": "{59c46dd3-5450-4116-a299-2b1642a93c4e}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{8249c939-fbe8-44dd-91cb-5e64062ba072}",
+            "in_index": 0,
+            "out_id": "{48e9a978-0454-415b-945c-d90a2b3277fb}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{1cd90899-61d4-470e-a406-2c689e744393}",
+            "in_index": 0,
+            "out_id": "{8f7e6cd1-c772-4775-9073-1ac926bf9d53}",
             "out_index": 0
         },
         {
@@ -445,9 +163,111 @@
             "out_index": 0
         },
         {
-            "in_id": "{37fc2e2d-73cc-431d-971b-e00ffea5764d}",
+            "in_id": "{8f7e6cd1-c772-4775-9073-1ac926bf9d53}",
             "in_index": 0,
-            "out_id": "{52f47a71-b740-4a40-8848-bccf915cc8f7}",
+            "out_id": "{81526248-bb1b-4cd9-9185-539b98acf404}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{fcf0f68c-69bb-44b2-b26d-d9d58a5bd7c9}",
+            "in_index": 0,
+            "out_id": "{c2db1488-519d-4b11-bfbe-a95bcf0f48a9}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{268a0ed2-19d4-408e-baf6-8c80bac5db9e}",
+            "in_index": 0,
+            "out_id": "{c13708fe-fb98-4aa8-8000-9007ad71efd2}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{7ff9e895-1a2a-4842-9873-6fc7d828df44}",
+            "in_index": 0,
+            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{c13708fe-fb98-4aa8-8000-9007ad71efd2}",
+            "in_index": 0,
+            "out_id": "{5ff3c6d6-2a3d-4018-bcc1-37641cb6d695}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{0ea60c3a-2ded-476f-88dc-f559c37c1403}",
+            "in_index": 0,
+            "out_id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
+            "in_index": 0,
+            "out_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{c3c489d1-71ab-4a0f-8507-c404f7d9c958}",
+            "in_index": 0,
+            "out_id": "{fcf0f68c-69bb-44b2-b26d-d9d58a5bd7c9}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{46936324-dfce-4fa7-bdc6-7f649d6e11da}",
+            "in_index": 0,
+            "out_id": "{81bf8675-ac2b-4658-ae1f-e337336a1879}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{4181335c-43dc-40df-8efa-0b98fe571837}",
+            "in_index": 0,
+            "out_id": "{c3c489d1-71ab-4a0f-8507-c404f7d9c958}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
+            "in_index": 0,
+            "out_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{48823650-1cac-40ad-9748-8b68c3c7c054}",
+            "in_index": 0,
+            "out_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{baa91e28-4170-42c3-aeba-5ed0c1758d33}",
+            "in_index": 0,
+            "out_id": "{c69318af-4c9c-4b54-b479-7816f91f8066}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{44807f80-8d39-4fc3-820d-aaff591c2bdc}",
+            "in_index": 1,
+            "out_id": "{713dcc70-17f3-485c-aec2-32b7e9038f6a}",
+            "out_index": 1
+        },
+        {
+            "in_id": "{7270da17-0484-4a33-aeb9-e8f81ec2fb22}",
+            "in_index": 0,
+            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
+            "in_index": 0,
+            "out_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{44807f80-8d39-4fc3-820d-aaff591c2bdc}",
+            "in_index": 0,
+            "out_id": "{713dcc70-17f3-485c-aec2-32b7e9038f6a}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{f0b15d7a-d455-4fd6-8b24-31bd7fb524b3}",
+            "in_index": 0,
+            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
             "out_index": 0
         },
         {
@@ -455,11 +275,290 @@
             "in_index": 0,
             "out_id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
             "out_index": 0
+        },
+        {
+            "in_id": "{98f0f41b-18ed-4b67-980c-63f28f637619}",
+            "in_index": 0,
+            "out_id": "{c052e4ae-ce6f-40e6-9fdd-b12f2f86c96d}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{8bdcf2c6-bf8d-4914-92a2-a057008d841c}",
+            "in_index": 0,
+            "out_id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{6e2e7bd0-abae-4f31-8b45-c2bf6a993d5f}",
+            "in_index": 0,
+            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{120c9238-7136-4750-958c-ec4839268d03}",
+            "in_index": 0,
+            "out_id": "{595c7be1-2c1b-44ea-a60b-8e7405746776}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{5cb93eae-bfde-4e34-904c-7461c7a689d7}",
+            "in_index": 0,
+            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{d560dda7-4049-4ded-a972-8bef7f757fc4}",
+            "in_index": 0,
+            "out_id": "{268a0ed2-19d4-408e-baf6-8c80bac5db9e}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
+            "in_index": 0,
+            "out_id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{8412def5-f882-465b-bdc0-6b3477eb7eee}",
+            "in_index": 0,
+            "out_id": "{0ea60c3a-2ded-476f-88dc-f559c37c1403}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{3e8bc090-ee42-4a29-9c59-006475873034}",
+            "in_index": 0,
+            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{9f7341ad-77b5-4492-ba8e-acc59c95cd4c}",
+            "in_index": 0,
+            "out_id": "{ffc394d1-e67d-4023-80ea-6f6b2cff76d3}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{36818974-4483-4e31-8cdb-d0d08768ff74}",
+            "in_index": 0,
+            "out_id": "{1b227269-03d6-4620-85af-da96ea48294a}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
+            "in_index": 1,
+            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{1b227269-03d6-4620-85af-da96ea48294a}",
+            "in_index": 0,
+            "out_id": "{713dcc70-17f3-485c-aec2-32b7e9038f6a}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
+            "in_index": 1,
+            "out_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{9bd6b15f-8836-452c-8577-86e8a4bea318}",
+            "in_index": 0,
+            "out_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{c13708fe-fb98-4aa8-8000-9007ad71efd2}",
+            "in_index": 1,
+            "out_id": "{5ff3c6d6-2a3d-4018-bcc1-37641cb6d695}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{65db2b86-c5ca-41ee-84a2-14a509266acb}",
+            "in_index": 0,
+            "out_id": "{46db8940-4df1-485b-8264-963fefb1c59a}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
+            "in_index": 0,
+            "out_id": "{c12a7293-9672-4b76-9463-b19ff55d4b46}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{ffc394d1-e67d-4023-80ea-6f6b2cff76d3}",
+            "in_index": 0,
+            "out_id": "{9f7341ad-77b5-4492-ba8e-acc59c95cd4c}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{5ff3c6d6-2a3d-4018-bcc1-37641cb6d695}",
+            "in_index": 0,
+            "out_id": "{d560dda7-4049-4ded-a972-8bef7f757fc4}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{595c7be1-2c1b-44ea-a60b-8e7405746776}",
+            "in_index": 0,
+            "out_id": "{46936324-dfce-4fa7-bdc6-7f649d6e11da}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{71d71246-e246-48eb-9ddd-e9037483f665}",
+            "in_index": 0,
+            "out_id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{ab42ff59-6660-4b30-861e-822441bfe2fa}",
+            "in_index": 0,
+            "out_id": "{120c9238-7136-4750-958c-ec4839268d03}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{acf4b568-98c2-46b5-91bd-befe3ffad8c9}",
+            "in_index": 0,
+            "out_id": "{48823650-1cac-40ad-9748-8b68c3c7c054}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
+            "in_index": 0,
+            "out_id": "{8bdcf2c6-bf8d-4914-92a2-a057008d841c}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{fdf0b4ac-180a-4429-ae38-335f891aed3f}",
+            "in_index": 0,
+            "out_id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
+            "in_index": 0,
+            "out_id": "{8412def5-f882-465b-bdc0-6b3477eb7eee}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{3fa2ed85-ea8e-4170-9f4c-8cf59c2783ad}",
+            "in_index": 0,
+            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
+            "out_index": 0
+        },
+        {
+            "in_id": "{efa54390-cd04-4808-8dd7-9c1104188f6d}",
+            "in_index": 0,
+            "out_id": "{0e21d312-f14a-4cd7-a733-527c7b095336}",
+            "out_index": 0
         }
     ],
     "nodes": [
         {
-            "id": "{3c6e2684-6415-4c5c-b4d5-e174d0dd6f36}",
+            "id": "{8f7e6cd1-c772-4775-9073-1ac926bf9d53}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "block resend",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -697.9590483261115,
+                "y": -2572.934389421562
+            }
+        },
+        {
+            "id": "{c69318af-4c9c-4b54-b479-7816f91f8066}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "setGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "set to tmp",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -54.040406042353084,
+                "y": -2571.0769236131823
+            }
+        },
+        {
+            "id": "{1cd90899-61d4-470e-a406-2c689e744393}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "if first time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -558.0430903535341,
+                "y": -2573.2552721549478
+            }
+        },
+        {
+            "id": "{81526248-bb1b-4cd9-9185-539b98acf404}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\nifelse = false\nif(min % 15 == 0 && sec == 0){\n     ifelse = true\n}",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "waiting for 15 min",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -851.1878209047261,
+                "y": -2572.4271866416625
+            }
+        },
+        {
+            "id": "{ee77d591-7b7b-4d80-bfd3-c66f0a436b63}",
             "model": {
                 "data": {
                     "console": "",
@@ -483,16 +582,211 @@
                 }
             },
             "position": {
-                "x": -165.50255139201266,
-                "y": -2433.7078555874386
+                "x": -257.6898188625147,
+                "y": -3602.542091853056
             }
         },
         {
-            "id": "{aa8e63af-7480-42bf-a57e-2119d8f41239}",
+            "id": "{30075830-83a9-4c44-bade-5c114b0b63ce}",
             "model": {
                 "data": {
                     "console": "",
-                    "js_code": "hour = getGlobal(\"hour\")\nmin = getGlobal(\"min\")\nsec = getGlobal(\"sec\")\n\nifelse = false\nif(min % 15 == 0 && sec == 0){\n     ifelse = true\n}",
+                    "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Subscribe data\nsend data and time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -438.10276927573864,
+                "y": -3604.3847186545036
+            }
+        },
+        {
+            "id": "{c3c489d1-71ab-4a0f-8507-c404f7d9c958}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "setGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "set to tmp",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -70.14550604235296,
+                "y": -3745.285123613182
+            }
+        },
+        {
+            "id": "{44807f80-8d39-4fc3-820d-aaff591c2bdc}",
+            "model": {
+                "name": "PipeConnection"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1224.5848106663523,
+                "y": -3774.8378719227157
+            }
+        },
+        {
+            "id": "{fcf0f68c-69bb-44b2-b26d-d9d58a5bd7c9}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "clear firsttime\n",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -243.4709569678364,
+                "y": -3746.167811885839
+            }
+        },
+        {
+            "id": "{36818974-4483-4e31-8cdb-d0d08768ff74}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "if first time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -574.1481903535339,
+                "y": -3747.4634721549473
+            }
+        },
+        {
+            "id": "{8249c939-fbe8-44dd-91cb-5e64062ba072}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1022.2350696650562,
+                "y": -3747.8772417062055
+            }
+        },
+        {
+            "id": "{83b1417b-4cac-4f7d-8ce6-3665e665a481}",
+            "model": {
+                "name": "PipeConnection"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1208.4797106663525,
+                "y": -2600.629671922716
+            }
+        },
+        {
+            "id": "{36ad0a03-8825-461e-8e1e-a06e83ff6e9c}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 19,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Subscribe data\nsend data and time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -418.79105770549097,
+                "y": -2573.0690806379757
+            }
+        },
+        {
+            "id": "{713dcc70-17f3-485c-aec2-32b7e9038f6a}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\nifelse = false\nif(min % 15 == 0 && sec == 0){\n     ifelse = true\n}",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
@@ -512,25 +806,647 @@
                 }
             },
             "position": {
-                "x": -790.4803264342256,
-                "y": -3743.089546076051
+                "x": -867.2929209047259,
+                "y": -3746.635386641661
             }
         },
         {
-            "id": "{00ce64f9-348a-4df9-bbdb-82f1f0205d78}",
+            "id": "{9f7341ad-77b5-4492-ba8e-acc59c95cd4c}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -2599.6160004587505,
+                "y": -2714.008433734086
+            }
+        },
+        {
+            "id": "{7e065176-fc5a-4a51-a2e5-83af4371ffc3}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "clear firsttime\n",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -227.36585696783652,
+                "y": -2571.9596118858394
+            }
+        },
+        {
+            "id": "{5ff3c6d6-2a3d-4018-bcc1-37641cb6d695}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "d = new Date()\nhour = d.getHours()\nsec = d.getSeconds()\n\n// time between 10AM and 9PM \nifelse = hour >= 10 && sec <= 20",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "IfElse",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "check time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -1970.3885085421416,
+                "y": -4016.4605885632036
+            }
+        },
+        {
+            "id": "{268a0ed2-19d4-408e-baf6-8c80bac5db9e}",
             "model": {
                 "name": "AutoRun",
                 "node_enable": true
             },
             "ngo": {
                 "comment": {
-                    "data": "time",
+                    "data": "start",
                     "show": true
                 }
             },
             "position": {
-                "x": -2618.5992011075864,
-                "y": -2749.973691762012
+                "x": -2235.1108635725345,
+                "y": -4017.1436020185693
+            }
+        },
+        {
+            "id": "{98f0f41b-18ed-4b67-980c-63f28f637619}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "/*\n    subscribe data\n*/\n\ncustomer_in = payload.output.customer_in\ncustomer_out = payload.output.customer_out\ntmp_customer_in = getGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID)\ntmp_customer_out = getGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID)\n\n// update data\nsetGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n\n/*\n    output data\n*/\n\npayload.output.customer_in = customer_in - tmp_customer_in\npayload.output.customer_out = customer_out - tmp_customer_out\n\n\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 19,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "calculate\nand update tmp",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -226.18471886251484,
+                "y": -2430.5338918530565
+            }
+        },
+        {
+            "id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
+            "model": {
+                "name": "ButtonRun"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Manual start",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -1632.2681326412114,
+                "y": -4015.5427675705146
+            }
+        },
+        {
+            "id": "{54fecea2-f3e2-47ef-a641-8b16c96e23bf}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "3 GO HDI customer_out\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 19.53547141086983,
+                "y": -3446.449334550876
+            }
+        },
+        {
+            "id": "{4f75b7e7-2e9c-4591-bac1-4714f485c69e}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "3 GO HDI customer_in\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 55.20231024653853,
+                "y": -2243.359340599384
+            }
+        },
+        {
+            "id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
+            "model": {
+                "data": {
+                    "count_key": "",
+                    "output_style": "both",
+                    "payload_key": "DeepDetect",
+                    "zones": [
+                        {
+                            "zone_name": "Zone1",
+                            "zone_pts_str": "379:0,876:0,876:439,375:445"
+                        },
+                        {
+                            "zone_name": "Zone2",
+                            "zone_pts_str": "876:449,379:453,379:713,873:713"
+                        }
+                    ]
+                },
+                "name": "ZoneCounterP",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -802.8235301245646,
+                "y": -4034.716906304222
+            }
+        },
+        {
+            "id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
+            "model": {
+                "delay_time": 33,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1250.2852166318285,
+                "y": -2865.224174240545
+            }
+        },
+        {
+            "id": "{7270da17-0484-4a33-aeb9-e8f81ec2fb22}",
+            "model": {
+                "height": 86,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "label = \"CameraID:\" + payload.setparam.cameraID+\"\\n\"\n    +\"บันไดเลื่อน\"",
+                    "size": 12,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 242
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1293.418095027273,
+                "y": -4244.54441474545
+            }
+        },
+        {
+            "id": "{4299dbf0-3a03-47c4-b4ab-728e7c625fd2}",
+            "model": {
+                "name": "PipeConnection"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1121.4797106663525,
+                "y": -2555.629671922716
+            }
+        },
+        {
+            "id": "{ec041dd0-7ca9-42eb-9037-93131504b4df}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "4 GO FUR  customer_out\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 59.032103293461674,
+                "y": -2395.0764364261713
+            }
+        },
+        {
+            "id": "{efa54390-cd04-4808-8dd7-9c1104188f6d}",
+            "model": {
+                "height": 86,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "label = \"CameraID:\" + payload.setparam.cameraID+\"\\n\"\n    +\"บันไดเลื่อน\"",
+                    "size": 12,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 242
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1293.4434220272713,
+                "y": -3077.0560190454435
+            }
+        },
+        {
+            "id": "{fa2cc8a2-1b02-4295-8c68-6b52d1ea9b48}",
+            "model": {
+                "height": 111,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "var m = new Date();\n\nvar show_datestring =\n    m.getFullYear() + \"/\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"/\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"0\" + m.getSeconds()).slice(-2);\n    \nlabel = show_datestring",
+                    "size": 19,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 23,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 293
+            },
+            "ngo": {
+                "comment": {
+                    "data": "just for show",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -2285.5655926997165,
+                "y": -2704.621263458833
+            }
+        },
+        {
+            "id": "{4181335c-43dc-40df-8efa-0b98fe571837}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "3 GO HDI customer_out\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 189.0012865874288,
+                "y": -3819.9196576162412
+            }
+        },
+        {
+            "id": "{baa91e28-4170-42c3-aeba-5ed0c1758d33}",
+            "model": {
+                "data": {
+                    "comment": "",
+                    "py_ver": "2. python3.8",
+                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                    "tmp_path": "/home/kem"
+                },
+                "height": 47,
+                "name": "PythonScript",
+                "node_enable": true,
+                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
+                "width": 75
+            },
+            "ngo": {
+                "comment": {
+                    "data": "3 GO HDI customer_in\nexport Database",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": 191.5612338173329,
+                "y": -2523.3431531804918
+            }
+        },
+        {
+            "id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "if(typeof payload.InOut.customer_in == \"undefined\"){\n    setGlobal(\"customer_in_camera\"+payload.setparam.cameraID, 0)\n    setGlobal(\"customer_out_camera\"+payload.setparam.cameraID, 0)\n}\nelse{\n    setGlobal(\"customer_in_camera\"+payload.setparam.cameraID, payload.InOut.customer_in)\n    setGlobal(\"customer_out_camera\"+payload.setparam.cameraID, payload.InOut.customer_out)\n}",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Publish data",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -369.12950915601897,
+                "y": -4038.03425628114
+            }
+        },
+        {
+            "id": "{7ff9e895-1a2a-4842-9873-6fc7d828df44}",
+            "model": {
+                "height": 367,
+                "name": "Debug",
+                "output_h": 0,
+                "output_v": 0,
+                "page_index": 2,
+                "payload_h": 0,
+                "payload_v": 0,
+                "width": 553
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -171.5826255749766,
+                "y": -3300.7410681393594
+            }
+        },
+        {
+            "id": "{ab42ff59-6660-4b30-861e-822441bfe2fa}",
+            "model": {
+                "height": 86,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "label = \"in:\" + payload.InOut.customer_in ",
+                    "size": 17,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 242
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -167.94342202727142,
+                "y": -2872.2560190454433
+            }
+        },
+        {
+            "id": "{5cb93eae-bfde-4e34-904c-7461c7a689d7}",
+            "model": {
+                "height": 86,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "label = \"in:\" + payload.InOut.customer_in ",
+                    "size": 17,
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 242
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -167.91809502727324,
+                "y": -4039.7444147454503
+            }
+        },
+        {
+            "id": "{3e8bc090-ee42-4a29-9c59-006475873034}",
+            "model": {
+                "height": 86,
+                "label": {
+                    "bold": true,
+                    "console": "",
+                    "font": "Ubuntu",
+                    "key": "label = \"out:\" + payload.InOut.customer_out ",
+                    "size": 17,
+                    "widget_state": {
+                        "auto_indent": false,
+                        "auto_parent": false,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "Label",
+                "node_enable": true,
+                "width": 242
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": 148.78516752727126,
+                "y": -4037.9859099818154
+            }
+        },
+        {
+            "id": "{f7cb7acd-59bd-4f35-9dbf-cc705b9cd3b4}",
+            "model": {
+                "height": 452,
+                "name": "DebugGlobal",
+                "payload_h": 0,
+                "payload_v": 0,
+                "width": 341
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -2279.9622252640143,
+                "y": -3265.414620337053
+            }
+        },
+        {
+            "id": "{c2db1488-519d-4b11-bfbe-a95bcf0f48a9}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 19,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Subscribe data\nsend data and time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -434.89615770549085,
+                "y": -3747.2772806379753
             }
         },
         {
@@ -563,10 +1479,33 @@
             }
         },
         {
-            "id": "{c07a9200-c0ef-463d-94fe-94766a8cf8c6}",
+            "id": "{acf4b568-98c2-46b5-91bd-befe3ffad8c9}",
             "model": {
-                "name": "RelaySwitch",
-                "relay_status": true
+                "data": {
+                    "curr_tap": 0,
+                    "draw_roi": true,
+                    "enable_tracking": true,
+                    "font_scale": 1.2,
+                    "font_thickness": 2,
+                    "frame_buffer": 5,
+                    "map_det_cfgs": [
+                    ],
+                    "max_dist": 150,
+                    "nms": 0.4,
+                    "rect_thickness": 2,
+                    "result_drawing": true,
+                    "roi_h": 5000,
+                    "roi_w": 520,
+                    "roi_x": 380,
+                    "roi_y": 0,
+                    "show_confidence": true,
+                    "text_drawing": true,
+                    "this_config_name": "",
+                    "thresh": 50,
+                    "txt_offset": 10
+                },
+                "name": "DeepDetect ",
+                "node_enable": true
             },
             "ngo": {
                 "comment": {
@@ -575,12 +1514,70 @@
                 }
             },
             "position": {
-                "x": -2355.071122874117,
-                "y": -4000.7053835120487
+                "x": -940.5277966167378,
+                "y": -2868.594480402815
             }
         },
         {
-            "id": "{52f47a71-b740-4a40-8848-bccf915cc8f7}",
+            "id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
+            "model": {
+                "delay_time": 2000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "make sure value",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -1814,
+                "y": -4017
+            }
+        },
+        {
+            "id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
+            "model": {
+                "camId": "5003",
+                "data": {
+                    "2951": "rtsp://admin:123456@10.36.8.18:554/video2",
+                    "5003": "rtsp://admin:123456@10.36.8.17:554/video2"
+                },
+                "name": "GstCam",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1084.6613169569566,
+                "y": -4033.304054924424
+            }
+        },
+        {
+            "id": "{59c46dd3-5450-4116-a299-2b1642a93c4e}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1006.1299696650565,
+                "y": -2573.669041706206
+            }
+        },
+        {
+            "id": "{1b227269-03d6-4620-85af-da96ea48294a}",
             "model": {
                 "delay_time": 1000,
                 "name": "Delay",
@@ -593,26 +1590,8 @@
                 }
             },
             "position": {
-                "x": -637.2515538556106,
-                "y": -3743.5967488559513
-            }
-        },
-        {
-            "id": "{74f0016d-ac26-4fc3-adf0-325f79fc7da9}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -945.4478021945538,
-                "y": -2576.843005440589
+                "x": -714.0641483261113,
+                "y": -3747.1425894215618
             }
         },
         {
@@ -651,7 +1630,7 @@
                     "comment": "",
                     "py_ver": "2. python3.8",
                     "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
+                    "tmp_path": "/home/kem"
                 },
                 "height": 47,
                 "name": "PythonScript",
@@ -671,591 +1650,13 @@
             }
         },
         {
-            "id": "{7682142a-f304-4463-a5b5-f25d9105068c}",
-            "model": {
-                "camId": "5003",
-                "data": {
-                    "2951": "rtsp://admin:123456@10.36.8.18:554/video2",
-                    "5003": "rtsp://admin:123456@10.36.8.17:554/video2"
-                },
-                "name": "GstCam",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1084.6613169569566,
-                "y": -4033.304054924424
-            }
-        },
-        {
-            "id": "{7b3aeafe-0f4c-47a2-94c9-f617db7cd699}",
-            "model": {
-                "delay_time": 2000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "make sure value",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -1814,
-                "y": -4017
-            }
-        },
-        {
-            "id": "{25efa680-ee69-426a-ad82-19c5265256ba}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    flow date\n*/\n\nvar d = new Date()\nvar hour = d.getHours()\nvar min = d.getMinutes()\nvar sec = d.getSeconds()\n\nsetGlobal(\"hour\", hour)\nsetGlobal(\"min\", min)\nsetGlobal(\"sec\", sec)\n\n/*\n    before 15 minutes\n    database format\n*/\n\nvar m = new Date();\n\nvar show_datestring =\n    m.getUTCFullYear() + \"/\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"/\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"0\" + m.getSeconds()).slice(-2);\n\nsetGlobal(\"show_datestring\", show_datestring)\n\n/*\n    before 15 minutes\n    database format\n*/\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\nsetGlobal(\"database_datestring\", database_datestring)\n\n\n\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 23,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "set Global time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -2475.7474038474425,
-                "y": -2747.410560706565
-            }
-        },
-        {
-            "id": "{930033d6-426e-4fe9-a153-c6606c8db159}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\ndatabase_datestring = getGlobal(\"database_datestring\")\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Subscribe data\nsend data and time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -361.2901748052383,
-                "y": -3600.8388780888936
-            }
-        },
-        {
-            "id": "{6c61d591-b476-4a22-8f6c-c42a7a23a180}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\ndatabase_datestring = getGlobal(\"database_datestring\")\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 19,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Subscribe data\nsend data and time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -358.0835632349904,
-                "y": -3743.7314400723653
-            }
-        },
-        {
-            "id": "{3e8bc090-ee42-4a29-9c59-006475873034}",
-            "model": {
-                "height": 86,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "label = \"out:\" + payload.InOut.customer_out ",
-                    "size": 17,
-                    "widget_state": {
-                        "auto_indent": false,
-                        "auto_parent": false,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 242
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": 148.78516752727126,
-                "y": -4037.9859099818154
-            }
-        },
-        {
-            "id": "{7ff9e895-1a2a-4842-9873-6fc7d828df44}",
-            "model": {
-                "height": 367,
-                "name": "Debug",
-                "output_h": 0,
-                "output_v": 0,
-                "page_index": 2,
-                "payload_h": 0,
-                "payload_v": 0,
-                "width": 553
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -171.5826255749766,
-                "y": -3300.7410681393594
-            }
-        },
-        {
-            "id": "{acf4b568-98c2-46b5-91bd-befe3ffad8c9}",
-            "model": {
-                "data": {
-                    "curr_tap": 0,
-                    "draw_roi": true,
-                    "enable_tracking": true,
-                    "font_scale": 1.2,
-                    "font_thickness": 2,
-                    "frame_buffer": 5,
-                    "map_det_cfgs": [
-                        {
-                            "backend_gpu": true,
-                            "config_name": "customer10",
-                            "config_path": "/home/ilm/index_count_customer/ai/customer10"
-                        },
-                        {
-                            "backend_gpu": true,
-                            "config_name": "customer11",
-                            "config_path": "/home/ilm/index_count_customer/ai/customer11"
-                        }
-                    ],
-                    "max_dist": 150,
-                    "nms": 0.4,
-                    "rect_thickness": 2,
-                    "result_drawing": true,
-                    "roi_h": 5000,
-                    "roi_w": 520,
-                    "roi_x": 380,
-                    "roi_y": 0,
-                    "show_confidence": true,
-                    "text_drawing": true,
-                    "this_config_name": "customer11",
-                    "thresh": 50,
-                    "txt_offset": 10
-                },
-                "name": "DeepDetect ",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -940.5277966167378,
-                "y": -2868.594480402815
-            }
-        },
-        {
-            "id": "{03b6a272-2560-4d3c-9808-660dd6842aa6}",
-            "model": {
-                "name": "AutoRun",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "start",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -2243.2653035994786,
-                "y": -4017.129534867833
-            }
-        },
-        {
-            "id": "{ab42ff59-6660-4b30-861e-822441bfe2fa}",
-            "model": {
-                "height": 86,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "label = \"in:\" + payload.InOut.customer_in ",
-                    "size": 17,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 242
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -167.94342202727142,
-                "y": -2872.2560190454433
-            }
-        },
-        {
-            "id": "{af12ed37-f013-4c9e-81ec-79e09762d7d3}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "setGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "set to tmp",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 6.667088428147576,
-                "y": -3741.7392830475715
-            }
-        },
-        {
-            "id": "{c946d5d3-c72a-4ad0-b1b8-d30f8a0365b5}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "if(typeof payload.InOut.customer_in == \"undefined\"){\n    setGlobal(\"customer_in_camera\"+payload.setparam.cameraID, 0)\n    setGlobal(\"customer_out_camera\"+payload.setparam.cameraID, 0)\n}\nelse{\n    setGlobal(\"customer_in_camera\"+payload.setparam.cameraID, payload.InOut.customer_in)\n    setGlobal(\"customer_out_camera\"+payload.setparam.cameraID, payload.InOut.customer_out)\n}",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Publish data",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -369.12950915601897,
-                "y": -4038.03425628114
-            }
-        },
-        {
-            "id": "{c095f8f5-78a8-4b83-a694-a20c0dee59e7}",
-            "model": {
-                "name": "PipeConnection"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1147.7722161958518,
-                "y": -3771.2920313571058
-            }
-        },
-        {
-            "id": "{37fc2e2d-73cc-431d-971b-e00ffea5764d}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "if first time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -497.3355958830334,
-                "y": -3743.9176315893374
-            }
-        },
-        {
-            "id": "{efa54390-cd04-4808-8dd7-9c1104188f6d}",
-            "model": {
-                "height": 86,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "label = \"CameraID:\" + payload.setparam.cameraID+\"\\n\"\n    +\"บันไดเลื่อน\"",
-                    "size": 12,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 242
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1293.4434220272713,
-                "y": -3077.0560190454435
-            }
-        },
-        {
-            "id": "{4181335c-43dc-40df-8efa-0b98fe571837}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "3 GO HDI customer_out\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 189.0012865874288,
-                "y": -3819.9196576162412
-            }
-        },
-        {
-            "id": "{baa91e28-4170-42c3-aeba-5ed0c1758d33}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "3 GO HDI customer_in\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 191.5612338173329,
-                "y": -2523.3431531804918
-            }
-        },
-        {
-            "id": "{f7cb7acd-59bd-4f35-9dbf-cc705b9cd3b4}",
-            "model": {
-                "height": 452,
-                "name": "DebugGlobal",
-                "payload_h": 0,
-                "payload_v": 0,
-                "width": 341
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -2279.9622252640143,
-                "y": -3265.414620337053
-            }
-        },
-        {
-            "id": "{ec041dd0-7ca9-42eb-9037-93131504b4df}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "4 GO FUR  customer_out\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 59.032103293461674,
-                "y": -2395.0764364261713
-            }
-        },
-        {
-            "id": "{9bdb6aaf-9d3c-4282-842c-e5f4a0abad51}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "setGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "set to tmp",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 6.641761428149493,
-                "y": -2574.2508873475645
-            }
-        },
-        {
-            "id": "{437adba2-35bc-4ef9-acb9-5a75c9d5f9b1}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\ndatabase_datestring = getGlobal(\"database_datestring\")\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 19,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Subscribe data\nsend data and time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -358.10889023498856,
-                "y": -2576.243044372359
-            }
-        },
-        {
             "id": "{d3bdd46c-897f-4ea1-84b8-924c285b6e60}",
             "model": {
                 "data": {
                     "comment": "",
                     "py_ver": "2. python3.8",
                     "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
+                    "tmp_path": "/home/kem"
                 },
                 "height": 47,
                 "name": "PythonScript",
@@ -1303,16 +1704,6 @@
                     "font_thickness": 2,
                     "frame_buffer": 5,
                     "map_det_cfgs": [
-                        {
-                            "backend_gpu": true,
-                            "config_name": "customer10",
-                            "config_path": "/home/ilm/index_count_customer/ai/customer10"
-                        },
-                        {
-                            "backend_gpu": true,
-                            "config_name": "customer11",
-                            "config_path": "/home/ilm/index_count_customer/ai/customer11"
-                        }
                     ],
                     "max_dist": 150,
                     "nms": 0.4,
@@ -1324,7 +1715,7 @@
                     "roi_y": 0,
                     "show_confidence": true,
                     "text_drawing": true,
-                    "this_config_name": "customer10",
+                    "this_config_name": "",
                     "thresh": 50,
                     "txt_offset": 10
                 },
@@ -1340,22 +1731,6 @@
             "position": {
                 "x": -943.1799686304724,
                 "y": -4036.8191191719234
-            }
-        },
-        {
-            "id": "{10e6f5b9-9615-4b1f-a1c8-647a521085b2}",
-            "model": {
-                "name": "PipeConnection"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1060.7975431958498,
-                "y": -2558.803635657099
             }
         },
         {
@@ -1393,21 +1768,20 @@
             }
         },
         {
-            "id": "{038a10f2-213c-496d-be7d-bca77575efaf}",
+            "id": "{ffc394d1-e67d-4023-80ea-6f6b2cff76d3}",
             "model": {
-                "delay_time": 1000,
-                "name": "Delay",
+                "name": "AutoRun",
                 "node_enable": true
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "time",
+                    "show": true
                 }
             },
             "position": {
-                "x": -2748.343769430397,
-                "y": -2748.038332682523
+                "x": -2454.995399078088,
+                "y": -2710.9851151276243
             }
         },
         {
@@ -1424,35 +1798,6 @@
             "position": {
                 "x": -1339.9932111194587,
                 "y": -4016.7171292261432
-            }
-        },
-        {
-            "id": "{4b4bf7c2-6994-4484-b707-a55757f869f0}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "firsttime = getGlobal(\"firsttime_camera\"+payload.setparam.cameraID)\nifelse = firsttime == 1",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "if first time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -497.3609228830316,
-                "y": -2576.429235889331
             }
         },
         {
@@ -1520,6 +1865,35 @@
             }
         },
         {
+            "id": "{c052e4ae-ce6f-40e6-9fdd-b12f2f86c96d}",
+            "model": {
+                "data": {
+                    "console": "",
+                    "js_code": "/*\n    before 15 minutes\n    database format\n*/\nvar m = new Date();\nm.setMinutes(m.getMinutes() -15)\nvar database_datestring =\n    m.getFullYear() + \"-\" +\n    (\"0\" + (m.getMonth()+1)).slice(-2) + \"-\" +\n    (\"0\" + m.getDate()).slice(-2) + \" \" +\n    (\"0\" + m.getHours()).slice(-2) + \":\" +\n    (\"0\" + m.getMinutes()).slice(-2) + \":\" +\n    (\"00.00\");\n\n/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n",
+                    "widget_state": {
+                        "auto_indent": true,
+                        "auto_parent": true,
+                        "size": 11,
+                        "style": "Dracula",
+                        "widget_st_w": 0,
+                        "word_wrap": false
+                    }
+                },
+                "name": "JavaScript",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "Subscribe data\nsend data and time",
+                    "show": true
+                }
+            },
+            "position": {
+                "x": -421.99766927573876,
+                "y": -2430.176518654504
+            }
+        },
+        {
             "id": "{48823650-1cac-40ad-9748-8b68c3c7c054}",
             "model": {
                 "camId": "2951",
@@ -1542,38 +1916,28 @@
             }
         },
         {
-            "id": "{ac843441-63ed-4cf9-8f53-dd9ab689b7e3}",
+            "id": "{c13708fe-fb98-4aa8-8000-9007ad71efd2}",
             "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "hour = getGlobal(\"hour\")\nmin = getGlobal(\"min\")\nsec = getGlobal(\"sec\")\n\nifelse = false\nif(min % 15 == 0 && sec == 0){\n     ifelse = true\n}",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
+                "name": "RelaySwitch",
+                "relay_status": true
             },
             "ngo": {
                 "comment": {
-                    "data": "waiting for 15 min",
-                    "show": true
+                    "data": "",
+                    "show": false
                 }
             },
             "position": {
-                "x": -790.5056534342239,
-                "y": -2575.6011503760446
+                "x": -2346.165368046272,
+                "y": -4000.7194506627848
             }
         },
         {
             "id": "{0ea60c3a-2ded-476f-88dc-f559c37c1403}",
             "model": {
                 "data": {
+                    "acc_namespace": "",
+                    "is_use_acc": false,
                     "zone1": "Zone1",
                     "zone2": "Zone2"
                 },
@@ -1589,35 +1953,6 @@
             "position": {
                 "x": -650.9494957005893,
                 "y": -4033.92976610075
-            }
-        },
-        {
-            "id": "{a1f6ed07-7693-445e-9818-be026bce1a0d}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\n\ncustomer_in = payload.output.customer_in\ncustomer_out = payload.output.customer_out\ntmp_customer_in = getGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID)\ntmp_customer_out = getGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID)\n\n// update data\nsetGlobal(\"tmp_customer_in_camera\"+payload.setparam.cameraID, payload.output.customer_in)\nsetGlobal(\"tmp_customer_out_camera\"+payload.setparam.cameraID, payload.output.customer_out)\n\n/*\n    output data\n*/\n\npayload.output.customer_in = customer_in - tmp_customer_in\npayload.output.customer_out = customer_out - tmp_customer_out\n\n\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 19,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "calculate\nand update tmp",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -165.47722439201445,
-                "y": -3601.1962512874447
             }
         },
         {
@@ -1647,22 +1982,6 @@
             "position": {
                 "x": -1508.9933578560187,
                 "y": -4016.0568220811406
-            }
-        },
-        {
-            "id": "{18021c1a-e177-4095-b790-c0fef1defa23}",
-            "model": {
-                "name": "PipeConnection"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1147.79754319585,
-                "y": -2603.803635657099
             }
         },
         {
@@ -1717,9 +2036,29 @@
             }
         },
         {
+            "id": "{d560dda7-4049-4ded-a972-8bef7f757fc4}",
+            "model": {
+                "delay_time": 1000,
+                "name": "Delay",
+                "node_enable": true
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -2096.5684142862833,
+                "y": -4016.1737229119544
+            }
+        },
+        {
             "id": "{46936324-dfce-4fa7-bdc6-7f649d6e11da}",
             "model": {
                 "data": {
+                    "acc_namespace": "",
+                    "is_use_acc": false,
                     "zone1": "Zone1",
                     "zone2": "Zone2"
                 },
@@ -1735,35 +2074,6 @@
             "position": {
                 "x": -650.9748227005873,
                 "y": -2866.441370400743
-            }
-        },
-        {
-            "id": "{610ccf93-5e0e-418a-b6d6-a7a61b073dc4}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "clear firsttime\n",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -166.65836249733604,
-                "y": -3742.621971320229
             }
         },
         {
@@ -1783,13 +2093,29 @@
             }
         },
         {
+            "id": "{48e9a978-0454-415b-945c-d90a2b3277fb}",
+            "model": {
+                "name": "PipeConnection"
+            },
+            "ngo": {
+                "comment": {
+                    "data": "",
+                    "show": false
+                }
+            },
+            "position": {
+                "x": -1137.5848106663523,
+                "y": -3729.8378719227157
+            }
+        },
+        {
             "id": "{5fcb196b-b134-4719-abb5-dd0426cb8492}",
             "model": {
                 "data": {
                     "comment": "",
                     "py_ver": "2. python3.8",
                     "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 4\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
+                    "tmp_path": "/home/kem"
                 },
                 "height": 47,
                 "name": "PythonScript",
@@ -1838,24 +2164,6 @@
             }
         },
         {
-            "id": "{5d3020f6-a4d9-4552-93a9-bb09944e1090}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "block resend",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -637.2768808556086,
-                "y": -2576.1083531559443
-            }
-        },
-        {
             "id": "{9bd6b15f-8836-452c-8577-86e8a4bea318}",
             "model": {
                 "height": 367,
@@ -1877,370 +2185,11 @@
                 "x": -171.55729857497846,
                 "y": -4468.229463839366
             }
-        },
-        {
-            "id": "{fd3684bd-461e-42fe-a5bb-be123045dc64}",
-            "model": {
-                "name": "PipeConnection"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1060.7722161958516,
-                "y": -3726.2920313571058
-            }
-        },
-        {
-            "id": "{9585070f-585c-4994-b2b2-5b4ee533cb58}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "/*\n    subscribe data\n*/\ncustomer_in = getGlobal(\"customer_in_camera\"+payload.setparam.cameraID)\ncustomer_out = getGlobal(\"customer_out_camera\"+payload.setparam.cameraID)\n\ndatabase_datestring = getGlobal(\"database_datestring\")\n\n/*\n    send data and time\n*/\npayload.output = {}\npayload.output.customer_in = customer_in\npayload.output.customer_out = customer_out\npayload.output.database_datestring = database_datestring\nprint(payload.output.customer_in)\nprint(payload.output.customer_out)\nprint(payload.output.database_datestring)\n",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Subscribe data\nsend data and time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -361.31550180523635,
-                "y": -2433.350482388887
-            }
-        },
-        {
-            "id": "{5cb93eae-bfde-4e34-904c-7461c7a689d7}",
-            "model": {
-                "height": 86,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "label = \"in:\" + payload.InOut.customer_in ",
-                    "size": 17,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 242
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -167.91809502727324,
-                "y": -4039.7444147454503
-            }
-        },
-        {
-            "id": "{189fc7bf-ea3a-4bf4-b31c-e584f9d1448a}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "setGlobal(\"firsttime_camera\"+payload.setparam.cameraID, 0)",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "JavaScript",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "clear firsttime\n",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -166.68368949733411,
-                "y": -2575.1335756202225
-            }
-        },
-        {
-            "id": "{7270da17-0484-4a33-aeb9-e8f81ec2fb22}",
-            "model": {
-                "height": 86,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "label = \"CameraID:\" + payload.setparam.cameraID+\"\\n\"\n    +\"บันไดเลื่อน\"",
-                    "size": 12,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 242
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1293.418095027273,
-                "y": -4244.54441474545
-            }
-        },
-        {
-            "id": "{1f4eb50e-95e3-4265-bc2f-f38a66947000}",
-            "model": {
-                "delay_time": 33,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -1250.2852166318285,
-                "y": -2865.224174240545
-            }
-        },
-        {
-            "id": "{9f8229d2-45b1-47a0-970b-e03bc9cb8eb3}",
-            "model": {
-                "data": {
-                    "console": "",
-                    "js_code": "hour = getGlobal(\"hour\")\nmin = getGlobal(\"min\")\n// time between 10AM and 9PM \nifelse = hour >= 10 && hour <= 20",
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 11,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "IfElse",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "check time",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -1979.2942633699872,
-                "y": -4016.4465214124675
-            }
-        },
-        {
-            "id": "{c66ee78b-67dd-47eb-903d-ea1d97bd8dae}",
-            "model": {
-                "height": 111,
-                "label": {
-                    "bold": true,
-                    "console": "",
-                    "font": "Ubuntu",
-                    "key": "show_datestring = getGlobal(\"show_datestring\")\nlabel =  show_datestring",
-                    "size": 19,
-                    "widget_state": {
-                        "auto_indent": true,
-                        "auto_parent": true,
-                        "size": 23,
-                        "style": "Dracula",
-                        "widget_st_w": 0,
-                        "word_wrap": false
-                    }
-                },
-                "name": "Label",
-                "node_enable": true,
-                "width": 293
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -2280.4795525053228,
-                "y": -2737.793130852049
-            }
-        },
-        {
-            "id": "{d7ef4222-0555-427d-b985-f1d9e342ceae}",
-            "model": {
-                "data": {
-                    "count_key": "",
-                    "output_style": "both",
-                    "payload_key": "DeepDetect",
-                    "zones": [
-                        {
-                            "zone_name": "Zone1",
-                            "zone_pts_str": "379:0,876:0,876:439,375:445"
-                        },
-                        {
-                            "zone_name": "Zone2",
-                            "zone_pts_str": "876:449,379:453,379:713,873:713"
-                        }
-                    ]
-                },
-                "name": "ZoneCounterP",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -802.8235301245646,
-                "y": -4034.716906304222
-            }
-        },
-        {
-            "id": "{45494b8b-b572-4f5b-83cc-623deb3f8ec1}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -2105.4741691141294,
-                "y": -4016.1596557612183
-            }
-        },
-        {
-            "id": "{4a90ee81-abed-455f-a5cf-6999415a38a7}",
-            "model": {
-                "delay_time": 1000,
-                "name": "Delay",
-                "node_enable": true
-            },
-            "ngo": {
-                "comment": {
-                    "data": "",
-                    "show": false
-                }
-            },
-            "position": {
-                "x": -945.4224751945557,
-                "y": -3744.3314011405955
-            }
-        },
-        {
-            "id": "{4f75b7e7-2e9c-4591-bac1-4714f485c69e}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_in\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "3 GO HDI customer_in\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 55.20231024653853,
-                "y": -2243.359340599384
-            }
-        },
-        {
-            "id": "{54fecea2-f3e2-47ef-a641-8b16c96e23bf}",
-            "model": {
-                "data": {
-                    "comment": "",
-                    "py_ver": "2. python3.8",
-                    "script": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                    "tmp_path": "/home/ilm"
-                },
-                "height": 47,
-                "name": "PythonScript",
-                "node_enable": true,
-                "python_code": "import pyodbc\nimport pandas as pd\nimport platform\n\ndriverSQL = ''    \nif (platform.platform().lower().find('window') >= 0):\n    driverSQL = '{SQL Server}'\nif (platform.platform().lower().find('linux') >= 0):\n    driverSQL = '{ODBC Driver 18 for SQL Server}'\n\ndef insert2SQL (result):\n    \"\"\" Function for update result after process \n        and update queue status to done\n\n    Parameters\n    ----------\n    result : dataframe\n        result's dataframe\n        \n    \"\"\"\n        \n    server = '10.10.6.101'\n    database = 'AI_COUNTING'\n    username = 'innovation'\n    password = 'innovation1234.'\n    \n    cnxn = pyodbc.connect('DRIVER='+driverSQL+';SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password+\";TrustServerCertificate=yes\" ,autocommit=True)\n    crsr = cnxn.cursor()\n    \n    crsr.fast_executemany = True \n\n    Tcolumn = '?'\n    for x in range(len(result.columns) - 1):\n        Tcolumn = Tcolumn + ',?'\n    \n    sql = \"INSERT INTO result_pplCounting (cfg_camera_id,direction_id,data_date,data) VALUES (\" + Tcolumn + \")\"\n    \n    print(sql)\n    \n    params = [ tuple(row[1]) for row in result.iterrows()]\n    \n    print(params)\n    \n    print ('start insert ' , str(len(params)) ,' rows')\n    \n    for i in range (len(params)):\n        crsr.execute(sql,params[i])\n\n#direction id (1 IN) (2 OUT) (3 GO-HDI) (4 GO-FUR) (5 GO-WIN)\n\ncfg_camera = int(payload[\"setparam\"][\"cameraID\"])\ndirection_id = 3\ndatabase_datestring = payload[\"output\"][\"database_datestring\"]\ndata = payload[\"output\"][\"customer_out\"]\n\ndata = {'cfg_camera_id': [cfg_camera],'direction_id': [direction_id], \n'data_date':[database_datestring], \n'data':[data]}\n\nresult=pd.DataFrame(data)\nprint(result)\n\ninsert2SQL(result)\n\n",
-                "width": 75
-            },
-            "ngo": {
-                "comment": {
-                    "data": "3 GO HDI customer_out\nexport Database",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": 19.53547141086983,
-                "y": -3446.449334550876
-            }
-        },
-        {
-            "id": "{6d254d7e-2fff-465b-8317-d9629b18db30}",
-            "model": {
-                "name": "ButtonRun"
-            },
-            "ngo": {
-                "comment": {
-                    "data": "Manual start",
-                    "show": true
-                }
-            },
-            "position": {
-                "x": -1632.2681326412114,
-                "y": -4015.5427675705146
-            }
         }
     ],
     "scene_data": {
-        "flow_view_pos_x": 398.77825623868347,
-        "flow_view_pos_y": -2282.600180525126,
-        "flow_view_zoom_factor": 1.1000000000000005
+        "flow_view_pos_x": -1023.2913506519617,
+        "flow_view_pos_y": -3129.0376845815094,
+        "flow_view_zoom_factor": 0.5131581182307068
     }
 }
