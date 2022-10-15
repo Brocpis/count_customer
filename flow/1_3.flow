@@ -679,15 +679,19 @@
             "model": {
                 "data": {
                     "console": "",
-                    "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\n// last send data = 9PM then reboot\nifelse = ( hour == 21 && min == 0 && sec < 10 )",
+                    "height": 359,
+                    "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\n// last send data = 9PM then reboot\nifelse = ( hour == 21 && min == 0 && sec < 15)",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
                         "size": 11,
+                        "splt0": 282,
+                        "splt1": 71,
                         "style": "Dracula",
                         "widget_st_w": 0,
                         "word_wrap": false
-                    }
+                    },
+                    "width": 377
                 },
                 "name": "IfElse",
                 "node_enable": true
@@ -3321,8 +3325,8 @@
         }
     ],
     "scene_data": {
-        "flow_view_pos_x": -1300.70206000109,
-        "flow_view_pos_y": -3774.4437944145984,
-        "flow_view_zoom_factor": 0.683013455365071
+        "flow_view_pos_x": -1737.6268735815556,
+        "flow_view_pos_y": -3944.5480109965342,
+        "flow_view_zoom_factor": 1.1
     }
 }
