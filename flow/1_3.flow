@@ -736,7 +736,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "2 OUT customer_out\nexport Database",
+                    "data": "31.2 OUT customer_out\nexport Database",
                     "show": true
                 }
             },
@@ -752,7 +752,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "Manual start",
+                    "data": "6.Manual start",
                     "show": true
                 }
             },
@@ -798,8 +798,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "1.",
+                    "show": true
                 }
             },
             "position": {
@@ -816,8 +816,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "9.protect camera\nnot worknig",
+                    "show": true
                 }
             },
             "position": {
@@ -906,7 +906,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "just for show",
+                    "data": "39.just for show",
                     "show": true
                 }
             },
@@ -1003,8 +1003,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "36.",
+                    "show": true
                 }
             },
             "position": {
@@ -1077,7 +1077,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "Publish data",
+                    "data": "15.Publish data",
                     "show": true
                 }
             },
@@ -1268,7 +1268,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "set to tmp",
+                    "data": "25.set to tmp",
                     "show": true
                 }
             },
@@ -1470,7 +1470,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "clear firsttime\n",
+                    "data": "24.clear firsttime\n",
                     "show": true
                 }
             },
@@ -1507,22 +1507,26 @@
             "model": {
                 "data": {
                     "console": "",
+                    "height": 359,
                     "js_code": "d = new Date()\nhour = d.getHours()\nmin = d.getMinutes()\nsec = d.getSeconds()\n\n// last send data = 9PM then reboot\nifelse = ( hour == 21 && min == 0 && sec > 15)",
                     "widget_state": {
                         "auto_indent": true,
                         "auto_parent": true,
                         "size": 11,
+                        "splt0": 282,
+                        "splt1": 71,
                         "style": "Dracula",
                         "widget_st_w": 0,
                         "word_wrap": false
-                    }
+                    },
+                    "width": 322
                 },
                 "name": "IfElse",
                 "node_enable": true
             },
             "ngo": {
                 "comment": {
-                    "data": "reboot",
+                    "data": "35.reboot",
                     "show": true
                 }
             },
@@ -1600,8 +1604,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "3.",
+                    "show": true
                 }
             },
             "position": {
@@ -1617,7 +1621,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "start",
+                    "data": "2.start",
                     "show": true
                 }
             },
@@ -1703,7 +1707,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "Subscribe data\nsend data and time",
+                    "data": "28.Subscribe data\nsend data and time",
                     "show": true
                 }
             },
@@ -1742,8 +1746,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "17.",
+                    "show": true
                 }
             },
             "position": {
@@ -1778,7 +1782,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "block resend",
+                    "data": "21.block resend",
                     "show": true
                 }
             },
@@ -1988,7 +1992,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "waiting for 15 min",
+                    "data": "20.waiting for 15 min",
                     "show": true
                 }
             },
@@ -2034,7 +2038,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "time",
+                    "data": "38.time",
                     "show": true
                 }
             },
@@ -2071,8 +2075,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "19.",
+                    "show": true
                 }
             },
             "position": {
@@ -2087,8 +2091,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "18.",
+                    "show": true
                 }
             },
             "position": {
@@ -2116,7 +2120,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "calculate\nand update tmp",
+                    "data": "29.calculate\nand update tmp",
                     "show": true
                 }
             },
@@ -2249,8 +2253,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "34.",
+                    "show": true
                 }
             },
             "position": {
@@ -2281,7 +2285,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
+                    "data": "12.draw zone",
                     "show": true
                 }
             },
@@ -2376,8 +2380,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "13.count",
+                    "show": true
                 }
             },
             "position": {
@@ -2463,7 +2467,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "set param",
+                    "data": "7.set param",
                     "show": true
                 }
             },
@@ -2508,7 +2512,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "1 IN customer_in\nexport Database",
+                    "data": "30.1 IN customer_in\nexport Database",
                     "show": true
                 }
             },
@@ -2592,8 +2596,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "11.ai detection",
+                    "show": true
                 }
             },
             "position": {
@@ -2647,7 +2651,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "1 IN customer_in\nexport Database",
+                    "data": "26.1 IN customer_in\nexport Database",
                     "show": true
                 }
             },
@@ -2682,8 +2686,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "14.draw value\nto img",
+                    "show": true
                 }
             },
             "position": {
@@ -2699,7 +2703,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "reboot",
+                    "data": "33.reboot",
                     "show": true
                 }
             },
@@ -2715,8 +2719,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "8.",
+                    "show": true
                 }
             },
             "position": {
@@ -2867,7 +2871,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "check time",
+                    "data": "4.check time",
                     "show": true
                 }
             },
@@ -2911,13 +2915,13 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "37.",
+                    "show": true
                 }
             },
             "position": {
                 "x": -2755.308257033702,
-                "y": -2750.886010368473
+                "y": -2752.096010368473
             }
         },
         {
@@ -3055,7 +3059,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "if first time",
+                    "data": "22.if first time",
                     "show": true
                 }
             },
@@ -3094,7 +3098,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "make sure value",
+                    "data": "5.make sure value",
                     "show": true
                 }
             },
@@ -3117,8 +3121,8 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "",
-                    "show": false
+                    "data": "10.stram camera",
+                    "show": true
                 }
             },
             "position": {
@@ -3310,7 +3314,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "2 OUT customer_out\nexport Database",
+                    "data": "27.2 OUT customer_out\nexport Database",
                     "show": true
                 }
             },
@@ -3339,7 +3343,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "Subscribe data\nsend data and time",
+                    "data": "23.Subscribe data\nsend data and time",
                     "show": true
                 }
             },
@@ -3397,7 +3401,7 @@
             },
             "ngo": {
                 "comment": {
-                    "data": "set firsttime",
+                    "data": "16.set firsttime",
                     "show": true
                 }
             },
@@ -3408,8 +3412,8 @@
         }
     ],
     "scene_data": {
-        "flow_view_pos_x": -1076.057908563128,
-        "flow_view_pos_y": -2041.623091917264,
-        "flow_view_zoom_factor": 0.4665073802097333
+        "flow_view_pos_x": -1031.5163990639821,
+        "flow_view_pos_y": -3746.5136570749023,
+        "flow_view_zoom_factor": 0.5644739300537777
     }
 }
